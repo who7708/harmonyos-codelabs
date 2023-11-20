@@ -13,7 +13,7 @@
 ## 目录<a name="sectionMenu"></a>
 
 - 优秀案例
-  - [溪村小镇（ArkTS）（API 9）](https://gitee.com/harmonyos/codelabs/tree/master/OxHornCampus)
+  - [溪村小镇（ArkTS）（API 9）](./OxHornCampus)
   - [一次开发，多端部署-购物应用（ArkTS）（API 9）](https://gitee.com/harmonyos/codelabs/tree/master/MultiShopping)
   - [一次开发，多端部署-音乐专辑（ArkTS）（API 9）](https://gitee.com/harmonyos/codelabs/tree/master/MultiDeviceMusic)
   - [健康生活应用（ArkTS）（API 9）](https://gitee.com/harmonyos/codelabs/tree/master/Healthy_life)
