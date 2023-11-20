@@ -1,5 +1,6 @@
 .idea
 oh_modules
+node_modules
 build
 
 local.properties
@@ -11,3 +12,5 @@ local.properties
 .preview
 
 oh-package-lock.json5
+package-lock.json
+
