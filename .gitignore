@@ -1,0 +1,13 @@
+.idea
+oh_modules
+build
+
+local.properties
+
+.gradle
+
+.hvigor
+
+.preview
+
+oh-package-lock.json5
